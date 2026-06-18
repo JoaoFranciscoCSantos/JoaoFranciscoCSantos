@@ -2,7 +2,7 @@
 
 # Hi, I'm João 👋
 
-Computer Science & Engineering student at FEUP (University of Porto), exploring different areas of software development — from systems programming to robotics, game dev, and mobile apps.
+Software Engineering student at FEUP (University of Porto), exploring different areas of software development — from systems programming to robotics, game dev, and mobile apps.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
@@ -13,11 +13,11 @@ Computer Science & Engineering student at FEUP (University of Porto), exploring 
 
 ### 🎓 About me
 
-- 💻 Currently studying **Informatics and Computing Engineering (MIEIC)** at FEUP
-- 🌍 Cambridge C1 English certified
+- 💻 Currently studying **Bachelor in Informatics and Computing Engineering (LEIC)** at FEUP
+- 🌍 Cambridge C1 English (in progress)
 - 🔭 Still exploring my specialization — between **C++**, **robotics**, and **game/app development**
-- 📚 Interested in systems, computer architecture, and creative development (Godot, Flutter)
-- ⚡ Outside of code: cycling, powerlifting, and learning guitar
+- 📚 Interested in systems and creative development (Godot, Flutter)
+- ⚡ Outside of code: cycling, powerlifting, and karate
 
 ---
 
