@@ -13,7 +13,7 @@ Software Engineering student at FEUP (University of Porto), exploring different 
 
 ### 🎓 About me
 
-- 💻 Currently studying **Bachelor in Informatics and Computing Engineering (LEIC)** at FEUP
+- 💻 Currently studying **Informatics and Computing Engineering (LEIC)** at FEUP
 - 🌍 Cambridge C1 English (in progress)
 - 🔭 Still exploring my specialization — between **C++**, **robotics**, and **game/app development**
 - 📚 Interested in systems and creative development (Godot, Flutter)
